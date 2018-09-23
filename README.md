@@ -1,4 +1,4 @@
-# Hotmail Auto-Grouper
+# Outlook Auto-Grouper
 
 ## Quickstart
 
